@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bcf1809-612e-449f-9e35-7d1c266629a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/DDD/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/DDD/AppTest.java" afterDir="false" />
+    <list default="true" id="1bcf1809-612e-449f-9e35-7d1c266629a4" name="Changes" comment="Create core of project">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6be9c985-83d8-4e35-b1f6-4e43574785f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6be9c985-83d8-4e35-b1f6-4e43574785f2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6be9c985-83d8-4e35-b1f6-4e43574785f2/storage_v2/_src_/database/SuperFilms.1KwDDw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6be9c985-83d8-4e35-b1f6-4e43574785f2/storage_v2/_src_/database/SuperFilms.1KwDDw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/DDD/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/DDD/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +46,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ivano/Desktop/GG22",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "actions.on.save"
@@ -68,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682070197934</updated>
-      <workItem from="1682070199374" duration="793000" />
+      <workItem from="1682070199374" duration="9189000" />
     </task>
+    <task id="LOCAL-00001" summary="Create core of project">
+      <created>1682071127665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682071127665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create core of project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create core of project" />
   </component>
 </project>
